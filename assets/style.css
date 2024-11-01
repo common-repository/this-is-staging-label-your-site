@@ -1,0 +1,26 @@
+#wpadminbar .tis-paint-me-red {
+    background-color: red;
+}
+
+.tis-container{
+	position: relative;
+}
+
+.tis-container .succes_log {
+	display:none;
+    width: 200px;
+    border: 2px solid green;
+    padding: 20px;
+    text-align: center;
+    background: #fff;
+    font-weight: bold;
+    color: #098420;
+}
+
+.overall-error {
+    display: none;
+    width: 200px;
+    padding: 10px;
+    border: 3px solid red;
+    background-color: #fff;
+}
